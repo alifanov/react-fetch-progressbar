@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/42BV/react-fetch-progressbar#readme",
   "peerDependencies": {
-    "react": "^15.6.1"
+    "react": "~16.14.0"
   },
   "devDependencies": {
     "@types/enzyme-adapter-react-16": "1.0.5",
